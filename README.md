@@ -28,3 +28,7 @@ The purpose of this document is to serve as a guide for you on effective strateg
 ### Practice 3
 
 ### Practice 4
+
+## Where Each Practice Pays Off
+
+## References
