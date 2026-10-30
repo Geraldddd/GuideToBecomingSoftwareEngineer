@@ -8,10 +8,10 @@ Date: October 27 2026
 
 - [Purpose](#purpose)
 - [Best Practices](#best-practices)
-    - [Practice 1](#practice-1-heading)
-    - [Practice 2](#practice-2-heading)
-    - [Practice 3](#practice-3-heading)
-    - [Practice 4](#practice-4-heading)
+    - [Practice 1](#practice-1)
+    - [Practice 2](#practice-2)
+    - [Practice 3](#practice-3)
+    - [Practice 4](#practice-4)
 - [Where Each Practice Pays Off](#where-each-practice-pays-off)
 - [References](#references)
 
