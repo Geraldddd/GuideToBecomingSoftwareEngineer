@@ -6,53 +6,15 @@ Date: October 27 2026
 
 ## Purpose
 
-The purpose of this document is to serve as a guide on effective strategies to acquire a job in software engineering. 
+The purpose of this document is to serve as a guide for you on effective strategies to acquire a job in software engineering. 
 
-## Features
+## Best Practice 1
 
-- Feature one
-- Feature two
-- Feature three
+TODO
 
-## Getting Started
+## Best Practice 2
 
-### Prerequisites
-
-List anything needed before installing (e.g. Node.js 20+, Python 3.11+).
-
-### Installation
-
-```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
-```
-
-### Usage
-
-```bash
-# Show how to run or use the project
-```
-
-## Project Structure
-
-```
-your-repo/
-└── README.md
-```
-
-## Contributing
-
-Contributions are welcome! Please open an issue to discuss changes before submitting a pull request.
-
-1. Fork the repo
-2. Create a branch (`git checkout -b feature/my-feature`)
-3. Commit your changes (`git commit -m "Add my feature"`)
-4. Push to the branch (`git push origin feature/my-feature`)
-5. Open a pull request
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
+TODO
 
 ## Contact
 
