@@ -1,7 +1,7 @@
 # Process to Software Engineer
 
-Prepared for: Future Husky student interested in software engineering
-Prepared by: Gerald Liu
+Prepared for: Future Husky student interested in software engineering\
+Prepared by: Gerald Liu\
 Date: October 27 2026
 
 ## Purpose
