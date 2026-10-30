@@ -1,12 +1,12 @@
-# Project Name
+# Process to Software Engineer
 
-> A short, one-line description of what this project does.
+> Prepared for: Future Husky student interested in software engineering
+> Prepared by: Gerald Liu
+> Date: October 27 2026
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+## Purpose
 
-## Overview
-
-Explain what the project is, why it exists, and who it's for. Two or three sentences is plenty.
+The purpose of this document is to serve as a guide on effective strategies to acquire a job in software engineering. 
 
 ## Features
 
