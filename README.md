@@ -17,7 +17,7 @@ Date: October 27 2026
 
 ## Purpose
 
-The purpose of this document is to serve as a guide for you on effective strategies to acquire a job in software engineering. 
+The purpose of this document is to serve as a guide for you on effective strategies to acquire a job in software engineering. testests
 
 ## Best Practices
 
