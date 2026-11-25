@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="media/image1.png" alt="Stacked API, server, and database layers inside curly braces" title="Title image" width="600">
-</p>
-
 # Graduation Plan: Becoming a Backend Developer
 
 ## Table of Contents
