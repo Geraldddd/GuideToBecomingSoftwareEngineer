@@ -19,12 +19,12 @@
 
 ## Purpose
 
-As a future Husky student, you seek guidance on finding a job in backend development. This document guides you through the practices that build the skills employers expect, from choosing a language to preparing for interviews. Figure 1 shows the order of the three stages that structure the plan. Following the stages in order builds each skill on the one before it. This plan explains the best practices that prepare you to apply for a backend developer role, so you graduate with the skills employers look for.
+As a future Husky student, you seek guidance on finding a job in backend development. This document guides you through the practices that build the skills employers expect, from choosing a language to preparing for interviews. Figure 1 shows the order of the three stages that structure the plan. This plan explains the best practices that prepare you to apply for a backend developer role, so you graduate with the skills employers look for.
 
 <p align="center"><b>Figure 1.</b> Backend developer skills roadmap</p>
 
 <p align="center">
-  <img src="media/skills_roadmap.png" alt="Three stages from left to right: build your technical foundation, develop server-side skills, and gain practical experience. Each stage lists two steps." width="500">
+  <img src="https://raw.githubusercontent.com/Geraldddd/GuideToBecomingSoftwareEngineer/main/media/skills_roadmap.png" alt="Three stages from left to right: build your technical foundation, develop server-side skills, and gain practical experience. Each stage lists two steps." width="500">
 </p>
 
 ## Building your technical foundation
