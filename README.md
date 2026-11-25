@@ -23,7 +23,11 @@
 
 ## Purpose
 
-As a future Husky student, you likely seek guidance on finding a job, this document can serve as a guide for you on learning effective strategies to acquire a job. This work presents best practices when seeking a position in backend development.
+As a future Husky student, you likely seek guidance on finding a job, this document can serve as a guide for you on learning effective strategies to acquire a job. This work presents best practices when seeking a position in backend development. Figure 1 shows the order of the three stages.
+
+**Figure 1.** Backend developer skills roadmap
+
+![Three stages from left to right: build your technical foundation, develop server-side skills, and gain practical experience. Each stage lists two steps.](media/skills_roadmap.png)
 
 ## Building your technical foundation
 
@@ -31,13 +35,13 @@ This section covers choosing a language to specialize in and database basics.
 
 ### Learning a backend language
 
-Developers tend to cluster into small groups of widely used languages. In a 2026 Stack Overflow survey, 62% of developers used JavaScript, 58% used Python, 43z% used TypeScript, and 27.6% used Java. Languages with such substantial use come with large communities, so you will find more libraries, examples, and answers to questions.
+Developers tend to cluster into small groups of widely used languages. In a 2026 Stack Overflow survey, 62% of developers used JavaScript, 58% used Python, 43z% used TypeScript, and 27.6% used Java.[^1] Languages with such substantial use come with large communities, so you will find more libraries, examples, and answers to questions.
 
 Choose one widely used backend language and build a deep understanding in that language before moving on to learn a second. Languages like Java and Python appear near the top
 
 ### Understanding databases and SQL
 
-Most backend features read or write stored data, in the aforementioned survey, 73% of developers used a database, and SQL ranked second among languages. Learn SQL on a relational database such as PostgreSQL, start with creating small project database.
+Most backend features read or write stored data, in the aforementioned survey, 73% of developers used a database, and SQL ranked second among languages.[^1] Learn SQL on a relational database such as PostgreSQL, start with creating small project database.
 
 ## Developing server-side skills
 
@@ -45,15 +49,9 @@ This section covers designing and testing the application programming interfaces
 
 ### Designing and testing APIs
 
-**Name actions with HTTP methods.** Use GET, POST, PUT, PATCH, and DELETE instead of verbs in the URL, such as `/getorder`. The methods keep URLs short and predictable.[^1]
+Design your API around standard HTTP methods and nested URLs. Use GET, POST, PUT, PATCH, and DELETE instead of verbs in the URL, such as `/getorder`, which keeps URLs short and predictable. Nest related data, such as `/products/:productid/reviews`, so the URL mirrors how the data relates, which speeds onboarding and reduces errors.[^2]
 
-**Nest URLs to match your data.** Write `/products/:productid/reviews` to show that reviews belong to a product. Nested URLs mirror data relationships, which speeds onboarding, reduces errors, and makes endpoints easier to discover.[^1]
-
-**Parse JSON with a standard library.** Never split or search the text by hand. A parser keeps working when a new field, such as a middle name, appears, while string handling silently misreads the data.[^1]
-
-**Write a test for every endpoint, and isolate each test run.** Tests document what the API does by example. Load known-good data before a run and remove it afterward, so one run cannot disturb the next.[^1]
-
-> *TODO: figure*
+Parse JSON with a standard library, because string handling silently misreads data when a new field, such as a middle name, appears. Write a test for every endpoint and load known-good data before each run, so the tests document how the API behaves and one run does not disturb the next.[^2]
 
 ### Using version control with Git
 
@@ -83,4 +81,6 @@ You can also make a first contribution to an existing open-source project. For e
 
 ## References
 
-[^1]: M. Heusser, "16 REST API design best practices and guidelines," *TechTarget*, 3 April 2025. [Online]. Available: https://www.techtarget.com/searchapparchitecture/tip/16-REST-API-design-best-practices-and-guidelines. [Accessed Nov. 25, 2026].
+[^1]: R. Donovan, "The results of the 2026 Developer Survey are here!," *Stack Overflow Blog*, 6 October 2026. [Online]. Available: https://stackoverflow.blog/2026/10/06/the-results-of-the-2026-developer-survey-are-here/. [Accessed Nov. 25, 2026].
+
+[^2]: M. Heusser, "16 REST API design best practices and guidelines," *TechTarget*, 3 April 2025. [Online]. Available: https://www.techtarget.com/searchapparchitecture/tip/16-REST-API-design-best-practices-and-guidelines. [Accessed Nov. 25, 2026].
